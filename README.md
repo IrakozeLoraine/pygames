@@ -1,2 +1,3 @@
-# pygames
-Python-based games
+# Pygames
+## Python-based games
+### 1. Space Invaders
